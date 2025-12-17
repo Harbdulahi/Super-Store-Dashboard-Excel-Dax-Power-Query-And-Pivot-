@@ -1,10 +1,7 @@
 # Superstore Sales Performance Dashboard (Excel)
 
 ## Overview
-This project analyzes Superstore sales data using Microsoft Excel to track revenue, profit, quantity sold, customer distribution, and geographical performance.  
-The dashboard is designed to give a fast, executive-level view of business performance across time, product categories, and U.S. states.
-
-The analysis is descriptive and diagnostic. No predictive modeling or machine learning is used.
+This project analyzes Superstore sales data using Microsoft Excel to track revenue, profit, quantity sold, customer distribution, and geographical performance. The dashboard is designed to give a fast, executive-level view of business performance across time, product categories, and U.S. states.
 
 ---
 
@@ -61,6 +58,8 @@ Each KPI includes a sparkline and YoY indicator.
 
 ### Visualizations
 
+![Superstore](https://github.com/Harbdulahi/Super-Store-Dashboard-Excel-Dax-Power-Query-And-Pivot-/blob/main/superstore/super%20store.jpg)
+
 #### Sales by Month
 Line chart showing monthly sales trend.  
 Highlights seasonality and peak sales periods.
@@ -69,6 +68,7 @@ Highlights seasonality and peak sales periods.
 Geographical map showing revenue distribution across U.S. states.
 
 #### Sales vs Profit by Category
+
 Clustered bar chart comparing revenue and profit for:
 - Furniture
 - Office Supplies
@@ -77,9 +77,11 @@ Clustered bar chart comparing revenue and profit for:
 Shows category-level profitability differences.
 
 #### Customer Count
+
 Donut chart showing contribution by top customers.
 
 #### Top 5 States by Sales
+
 Bar chart ranking the highest revenue-generating states:
 - California
 - New York
